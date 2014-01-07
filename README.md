@@ -1,4 +1,6 @@
-thinkster-firebase-tutorial
+Angular Firebase squeleton
 ===========================
 
-This repository is the starting point for the thinkster.io Firebase AngularJS tutorial
+This repository is a squeleton serving as starting point to develop angular&fierbase apps.
+
+git clone https://github.com/dydycloud/angFireBase.git
