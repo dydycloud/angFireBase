@@ -22,7 +22,7 @@ app/js/config.js
 
   // your Firebase URL goes here
   // should look something like: https://blahblah.firebaseio.com
-  .constant('FBURL', '<<<FIREBASE_URL_GOES_HERE>><')
+  .constant('FBURL', 'FIREBASE_URL_GOES_HERE')
 
 Great! You should now be able to boot the skeleton of the application. 
 
